@@ -54,6 +54,6 @@ footer{
 }
 @media (max-width: 800px){
 	img{
-		width: 800px;
+		width: 100%;
 		height: auto;
 	}
